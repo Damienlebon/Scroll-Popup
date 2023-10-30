@@ -146,10 +146,6 @@ p::first-letter {
   transform: translateX(400px);
   transition: 1s ease-out;
 }
-.pop-up.appear {
-  opacity: 1;
-  transform: translateX(0);
-}
 .pop-up-container {
   width: 100%;
   position: absolute;
